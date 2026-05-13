@@ -1,0 +1,15 @@
+{
+  "schema_version": 3,
+  "site_id": "sit_01kn8jq3t4famtyg9hjd074ckr",
+  "site_host": "demo-source.jant.me",
+  "created_at": 1778658102,
+  "managed_globs": [
+    "content/**",
+    "data/jant.toml",
+    "themes/jant/**",
+    "hugo.toml",
+    ".gitignore",
+    "README.md",
+    ".jant-sync"
+  ]
+}
