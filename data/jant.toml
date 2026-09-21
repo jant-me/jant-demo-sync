@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-09-21T06:00:04.000Z"
+generated_at = "2026-09-21T06:00:10.000Z"
 site_name = "Jant Demo"
 site_description = ""
 site_language = "en"
@@ -93,8 +93,8 @@ slug = "tiny-projects"
 title = "Tiny Projects"
 description_html = "<p>Repairs, setup tweaks, and half-day improvements around the apartment.</p>"
 entry_count = 11
-recent_activity_label = "Mar 4"
-recent_activity_iso = "2026-03-04T13:20:00.000Z"
+recent_activity_label = "Mar 1"
+recent_activity_iso = "2026-03-01T10:45:00.000Z"
 
 [[directory]]
 type = "collection"
