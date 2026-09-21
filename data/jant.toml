@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-09-21T04:32:34.000Z"
+generated_at = "2026-09-21T04:59:04.000Z"
 site_name = "Jant"
 site_description = ""
 site_language = "en"
@@ -62,7 +62,7 @@ sequence = "00"
 slug = "city-walks"
 title = "City Walks"
 description_html = "<p>Routes, corners, and small things I notice outside.</p>"
-entry_count = 9
+entry_count = 8
 recent_activity_label = "Mar 9"
 recent_activity_iso = "2026-03-09T18:05:00.000Z"
 
@@ -102,7 +102,7 @@ sequence = "04"
 slug = "useful-links"
 title = "Useful Links"
 description_html = "<p>Articles, tools, recipes, and pages I want to find again.</p>"
-entry_count = 13
+entry_count = 12
 recent_activity_label = "Mar 5"
 recent_activity_iso = "2026-03-05T09:10:00.000Z"
 
