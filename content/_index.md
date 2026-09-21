@@ -1,5 +1,5 @@
 ---
-title: "Jant"
+title: "Jant Demo"
 type: "home"
 ---
 

@@ -1,5 +1,5 @@
 baseURL = "https://demo-source.jant.me/"
-title = "Jant"
+title = "Jant Demo"
 languageCode = "en"
 defaultContentLanguage = "en"
 theme = "jant"

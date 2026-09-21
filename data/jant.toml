@@ -1,7 +1,7 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-09-21T05:27:08.000Z"
-site_name = "Jant"
+generated_at = "2026-09-21T05:42:37.000Z"
+site_name = "Jant Demo"
 site_description = ""
 site_language = "en"
 multilingual_enabled = true
@@ -82,7 +82,7 @@ sequence = "02"
 slug = "reading-notes"
 title = "Reading Notes"
 description_html = "<p>Lines worth keeping and thoughts after a chapter ends.</p>"
-entry_count = 15
+entry_count = 16
 recent_activity_label = "Feb 8"
 recent_activity_iso = "2026-02-08T03:25:00.000Z"
 

@@ -1,4 +1,4 @@
-# Jant — Hugo Export
+# Jant Demo — Hugo Export
 
 This is a static site exported from [Jant](https://github.com/jant-me/jant), ready to build with [Hugo](https://gohugo.io/).
 
