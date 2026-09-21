@@ -1,8 +1,8 @@
 ---
 id: "pst_01m313qpfqe4e8cmpw2darbrf1"
 title: "头马演讲俱乐部初体验"
-date: "2026-02-06T12:00:00.000Z"
-updated: "2026-09-21T05:42:43.000Z"
+date: "2026-03-04T12:00:00.000Z"
+updated: "2026-09-21T06:00:02.000Z"
 slug: "tou-ma-yan-jiang-ju-le-bu-chu-ti-yan"
 type: "post"
 format: "note"
@@ -13,7 +13,7 @@ truncated: true
 featured_at: "2026-09-21T04:31:37.000Z"
 featured_post_ids:
   - "pst_01m313qpfqe4e8cmpw2darbrf1"
-featured_sort_at: "2026-02-06T12:00:00.000Z"
+featured_sort_at: "2026-03-04T12:00:00.000Z"
 collections:
   - slug: "weekend-notes"
     title: "Weekend Notes"

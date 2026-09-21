@@ -1,8 +1,8 @@
 ---
 id: "pst_01m315g7jpf23t9cztdffw5w36"
 title: "CleanShot, for screenshots, OCR, and screen recording on the Mac"
-date: "2025-10-08T05:10:00.000Z"
-updated: "2026-09-21T05:02:29.000Z"
+date: "2025-09-30T05:10:00.000Z"
+updated: "2026-09-21T05:42:59.000Z"
 slug: "cleanshot-for-screenshots-ocr-and-screen-recording-on-the-mac"
 type: "post"
 format: "link"

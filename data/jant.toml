@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-09-21T05:43:00.000Z"
+generated_at = "2026-09-21T06:00:04.000Z"
 site_name = "Jant Demo"
 site_description = ""
 site_language = "en"
@@ -83,8 +83,8 @@ slug = "reading-notes"
 title = "Reading Notes"
 description_html = "<p>Lines worth keeping and thoughts after a chapter ends.</p>"
 entry_count = 16
-recent_activity_label = "Feb 18"
-recent_activity_iso = "2026-02-18T03:25:00.000Z"
+recent_activity_label = "Mar 7"
+recent_activity_iso = "2026-03-07T02:05:00.000Z"
 
 [[directory]]
 type = "collection"
