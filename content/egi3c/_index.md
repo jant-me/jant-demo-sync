@@ -1,7 +1,7 @@
 ---
 id: "pst_01m313qjjze4e8cmkd4y62gh7k"
-date: "2025-11-16T11:30:00.000Z"
-updated: "2026-09-21T04:31:33.000Z"
+date: "2025-12-16T11:30:00.000Z"
+updated: "2026-09-21T05:42:48.000Z"
 slug: "egi3c"
 type: "post"
 format: "note"

@@ -1,8 +1,8 @@
 ---
 id: "pst_01m313qfjwe4e8cmh9stpwee1b"
 title: "CleanShot：Mac 上的截图、OCR、录屏工具"
-date: "2025-10-08T05:10:00.000Z"
-updated: "2026-09-21T05:02:29.000Z"
+date: "2025-11-10T05:10:00.000Z"
+updated: "2026-09-21T05:42:52.000Z"
 slug: "cleanshotmac-shang-de-jie-tu-ocr-lu-ping-gong-ju"
 type: "post"
 format: "link"

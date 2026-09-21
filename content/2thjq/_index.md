@@ -1,7 +1,7 @@
 ---
 id: "pst_01m313qex8e4e8cmgte4rezjpc"
-date: "2025-09-29T01:30:00.000Z"
-updated: "2026-09-21T04:31:29.000Z"
+date: "2025-10-30T01:30:00.000Z"
+updated: "2026-09-21T05:42:53.000Z"
 slug: "2thjq"
 type: "post"
 format: "quote"

@@ -1,7 +1,7 @@
 ---
 id: "pst_01m313qhv0e4e8cmjsqrqxj9n5"
-date: "2025-11-06T00:20:00.000Z"
-updated: "2026-09-21T05:02:29.000Z"
+date: "2025-12-05T00:20:00.000Z"
+updated: "2026-09-21T05:42:49.000Z"
 slug: "gwob9"
 type: "post"
 format: "quote"

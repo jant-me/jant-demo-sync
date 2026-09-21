@@ -1,8 +1,8 @@
 ---
 id: "pst_01m313qh6ne4e8cmjawm7t0j5y"
 title: "看起来比较酷的公司们"
-date: "2025-10-30T13:45:00.000Z"
-updated: "2026-09-21T04:31:32.000Z"
+date: "2025-11-22T13:45:00.000Z"
+updated: "2026-09-21T05:42:50.000Z"
 slug: "kan-qi-lai-bi-jiao-ku-de-gong-si-men"
 type: "post"
 format: "note"
@@ -13,7 +13,7 @@ truncated: true
 featured_at: "2026-09-21T04:31:32.000Z"
 featured_post_ids:
   - "pst_01m313qh6ne4e8cmjawm7t0j5y"
-featured_sort_at: "2025-10-30T13:45:00.000Z"
+featured_sort_at: "2025-11-22T13:45:00.000Z"
 collections:
   - slug: "useful-links"
     title: "Useful Links"
