@@ -4,7 +4,7 @@ slug: "weekend-notes"
 type: "collection"
 summary_text: "Small updates from slow Saturdays and Sundays."
 sort_order: "newest"
-entry_count: 20
+entry_count: 22
 outputs:
   - "html"
   - "rss"
