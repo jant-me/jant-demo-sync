@@ -4,7 +4,7 @@ slug: "city-walks"
 type: "collection"
 summary_text: "Routes, corners, and small things I notice outside."
 sort_order: "newest"
-entry_count: 3
+entry_count: 6
 outputs:
   - "html"
   - "rss"
