@@ -1,8 +1,8 @@
 ---
 id: "pst_01m313qrqre4e8cmrdep4g83wr"
 title: "iNaturalist：爱自然社区"
-date: "2026-03-04T06:30:00.000Z"
-updated: "2026-09-21T04:32:28.000Z"
+date: "2026-01-28T06:30:00.000Z"
+updated: "2026-09-21T05:42:44.000Z"
 slug: "inaturalist-ai-zi-ran-she-qu"
 type: "post"
 format: "link"

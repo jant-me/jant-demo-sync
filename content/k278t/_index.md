@@ -1,7 +1,7 @@
 ---
 id: "pst_01m313qmfse4e8cmn345pm0dgk"
-date: "2025-12-14T04:00:00.000Z"
-updated: "2026-09-21T04:31:35.000Z"
+date: "2026-01-20T04:00:00.000Z"
+updated: "2026-09-21T05:42:45.000Z"
 slug: "k278t"
 type: "post"
 format: "quote"

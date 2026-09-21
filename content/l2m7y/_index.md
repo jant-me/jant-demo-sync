@@ -1,7 +1,7 @@
 ---
 id: "pst_01m313qn61e4e8cmngs2sj38vy"
-date: "2026-01-05T14:10:00.000Z"
-updated: "2026-09-21T04:31:36.000Z"
+date: "2026-01-09T14:10:00.000Z"
+updated: "2026-09-21T05:42:46.000Z"
 slug: "l2m7y"
 type: "post"
 format: "note"
