@@ -17,6 +17,7 @@ collections:
     collected_at: "2026-04-03T02:30:39.000Z"
     position: 0
     pinned_at: null
+language: "en"
 ---
 
 Copied this onto a sticky note and left it by the monitor for a week. It did its job.

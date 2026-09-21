@@ -22,6 +22,7 @@ collections:
     collected_at: "2026-04-03T02:30:49.000Z"
     position: 1
     pinned_at: null
+language: "en"
 ---
 
 I open this when the building gets loud and I need a little wall between me and everything else. It is one of the few sites I still bookmark on purpose.

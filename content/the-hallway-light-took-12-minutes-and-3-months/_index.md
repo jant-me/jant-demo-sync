@@ -20,6 +20,7 @@ collections:
     collected_at: "2026-04-03T02:31:03.000Z"
     position: 1
     pinned_at: null
+language: "en"
 ---
 
 The bulb burned out in June. I meant to replace it the same day. Instead I spent three months walking through the hallway like somebody in a low-budget mystery movie.

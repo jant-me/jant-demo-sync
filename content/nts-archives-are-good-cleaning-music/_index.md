@@ -22,6 +22,7 @@ collections:
     collected_at: "2026-04-03T02:30:49.000Z"
     position: 1
     pinned_at: null
+language: "en"
 ---
 
 I put this on whenever I need to wash dishes, fold laundry, or stop overthinking a small task. It gives the room a pulse.

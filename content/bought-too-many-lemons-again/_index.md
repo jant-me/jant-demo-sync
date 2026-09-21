@@ -27,6 +27,7 @@ media:
     size: 16484
     provider: "r2"
     storage_key: "media/sit_01kn8jq3t4famtyg9hjd074ckr/files/med_01kn8jv452enf98trbkwrvhvgd.webp"
+language: "en"
 ---
 
 Came home from the market with a bag of lemons, parsley, eggs, and zero idea what dinner was going to be.

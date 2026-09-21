@@ -22,6 +22,7 @@ collections:
     collected_at: "2026-04-03T02:30:32.000Z"
     position: 1
     pinned_at: null
+language: "en"
 ---
 
 Posting this here so I can find it again the next time I see a suspiciously patient bird near the water.

@@ -17,6 +17,7 @@ collections:
     collected_at: "2026-04-03T02:30:38.000Z"
     position: 0
     pinned_at: null
+language: "en"
 ---
 
 A little stern, maybe. Still useful on the mornings when I drift too long before starting anything.

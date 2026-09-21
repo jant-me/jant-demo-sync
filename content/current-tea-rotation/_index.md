@@ -20,6 +20,7 @@ collections:
     collected_at: "2026-04-03T02:30:35.000Z"
     position: 1
     pinned_at: null
+language: "en"
 ---
 
 The kitchen shelf is doing a lot of work right now.

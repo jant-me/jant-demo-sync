@@ -15,6 +15,7 @@ collections:
     collected_at: "2026-04-03T02:30:36.000Z"
     position: 0
     pinned_at: null
+language: "en"
 ---
 
 I finally made the desk simple enough that I want to sit down there again.

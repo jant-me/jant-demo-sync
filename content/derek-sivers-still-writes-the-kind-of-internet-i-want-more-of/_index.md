@@ -22,6 +22,7 @@ collections:
     collected_at: "2026-04-03T02:30:36.000Z"
     position: 1
     pinned_at: null
+language: "en"
 ---
 
 Short pages, clear opinions, no inflation. I usually leave with one useful sentence and that is enough.

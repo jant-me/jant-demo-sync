@@ -22,6 +22,7 @@ collections:
     collected_at: "2026-04-03T02:30:54.000Z"
     position: 1
     pinned_at: null
+language: "en"
 ---
 
 This is the kind of recipe I trust on a tired weeknight. Short ingredient list, no drama, and it tastes like you tried harder than you did.

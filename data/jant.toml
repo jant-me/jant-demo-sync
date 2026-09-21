@@ -1,14 +1,18 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-05-13T07:41:42.000Z"
+generated_at = "2026-09-21T04:31:25.000Z"
 site_name = "Jant"
 site_description = ""
 site_language = "en"
-home_default_view = "latest"
+multilingual_enabled = true
+additional_languages = "zh-Hans"
 main_rss_feed = "featured"
+archive_default_layout = "list"
+public_api_enabled = true
+rss_feeds_enabled = true
 show_jant_branding_on_home = true
 show_header_avatar = false
-noindex = false
+noindex = true
 site_avatar_mode = "custom"
 favicon_mode = "custom"
 apple_touch_mode = "custom"
@@ -16,20 +20,13 @@ theme_id = "tufte"
 default_theme_id = "tufte"
 font_theme_id = "classic"
 theme_mode = "auto"
-page_size = 50
-archive_page_size = 50
+page_size = 25
+archive_page_size = 25
 rss_feed_limit = 50
 favicon_path = "/favicon.ico"
 apple_touch_icon_path = "/apple-touch-icon.png"
 site_avatar_url = "https://demo-source-media.jant.me/media/sit_01kn8jq3t4famtyg9hjd074ckr/assets/avatar/med_01kn8jtq3penf98tfq4gzmh9g9.png"
 favicon_version = "202604030230"
-
-[[nav]]
-type = "system"
-label = "Latest"
-url = "/"
-system_key = "latest"
-placement = "header"
 
 [[nav]]
 type = "system"
@@ -40,17 +37,17 @@ placement = "header"
 
 [[nav]]
 type = "system"
-label = "Collections"
-url = "/collections/"
-system_key = "collections"
+label = "All"
+url = "/archive/"
+system_key = "archive"
 placement = "header"
 
 [[nav]]
 type = "system"
-label = "Archive"
-url = "/archive/"
-system_key = "archive"
-placement = "header"
+label = "Collections"
+url = "/collections/"
+system_key = "collections"
+placement = "more"
 
 [[nav]]
 type = "system"
@@ -115,6 +112,6 @@ sequence = "05"
 slug = "weekend-notes"
 title = "Weekend Notes"
 description_html = "<p>Small updates from slow Saturdays and Sundays.</p>"
-entry_count = 14
+entry_count = 15
 recent_activity_label = "Mar 9"
 recent_activity_iso = "2026-03-09T18:05:00.000Z"

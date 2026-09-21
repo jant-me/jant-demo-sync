@@ -24,6 +24,7 @@ collections:
     position: 1
     pinned_at: null
 last_activity_at: "2025-11-02T14:00:00.000Z"
+language: "en"
 ---
 
 Went into the bookshop for one notebook and left with a novel, essays, and a coffee I did not need. Classic behavior.

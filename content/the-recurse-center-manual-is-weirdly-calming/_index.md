@@ -22,6 +22,7 @@ collections:
     collected_at: "2026-04-03T02:31:04.000Z"
     position: 1
     pinned_at: null
+language: "en"
 ---
 
 I like reading pages where people have thought hard about how they want to work together. This one always makes me want to clean up my own habits.

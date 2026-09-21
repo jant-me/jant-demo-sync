@@ -22,6 +22,7 @@ collections:
     collected_at: "2026-04-03T02:30:33.000Z"
     position: 1
     pinned_at: null
+language: "en"
 ---
 
 Most saved links disappear into a hole. This one still feels calm enough to browse on purpose.

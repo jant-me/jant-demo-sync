@@ -24,6 +24,7 @@ collections:
     position: 1
     pinned_at: null
 last_activity_at: "2025-08-31T19:10:00.000Z"
+language: "en"
 ---
 
 Trying a slower Sunday on purpose today. Laundry, soup, no errands, no browser tabs multiplying in the background. Let's see if that is enough.

@@ -17,6 +17,7 @@ collections:
     collected_at: "2026-04-03T02:30:40.000Z"
     position: 0
     pinned_at: null
+language: "en"
 ---
 
 Useful line before I buy nonsense online because I had a long day and want to feel rewarded.
