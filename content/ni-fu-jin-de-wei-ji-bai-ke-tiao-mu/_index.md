@@ -1,0 +1,29 @@
+---
+id: "pst_01m313qk6ae4e8cmkrtczv0qj7"
+title: "你附近的维基百科条目"
+date: "2025-11-28T07:45:00.000Z"
+updated: "2026-09-21T04:31:34.000Z"
+slug: "ni-fu-jin-de-wei-ji-bai-ke-tiao-mu"
+type: "post"
+format: "link"
+status: "published"
+visibility: "public"
+summary_text: "很有创意，这个网站会在地图上显示所有附近拥有维基百科条目的地点。"
+link_url: "https://nearbywiki.org"
+collections:
+  - slug: "useful-links"
+    title: "Useful Links"
+    collected_at: "2026-09-21T04:31:34.000Z"
+    position: 0
+    pinned_at: null
+  - slug: "city-walks"
+    title: "City Walks"
+    collected_at: "2026-09-21T04:31:34.000Z"
+    position: 1
+    pinned_at: null
+language: "zh-Hans"
+---
+
+很有创意，这个网站会在地图上显示所有附近拥有维基百科条目的地点。
+
+![网站截图：附近景点列表，每条带距离和维基百科条目摘要](https://demo-source-media.jant.me/media/sit_01kn8jq3t4famtyg9hjd074ckr/files/med_01m313q7d2e4e8cmdeqjmyafby.webp)

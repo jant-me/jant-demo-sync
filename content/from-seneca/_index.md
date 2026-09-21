@@ -1,7 +1,7 @@
 ---
 id: "pst_01kn8jv9stenf98twm9f701gqq"
 date: "2025-12-10T07:35:00.000Z"
-updated: "2026-04-03T02:30:39.000Z"
+updated: "2026-09-21T04:31:34.000Z"
 slug: "from-seneca"
 type: "post"
 format: "quote"
@@ -18,6 +18,7 @@ collections:
     position: 0
     pinned_at: null
 language: "en"
+translation_group: "tgr_01m313qkwxe4e8cmmjkvjawr3d"
 ---
 
 Copied this onto a sticky note and left it by the monitor for a week. It did its job.

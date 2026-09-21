@@ -2,7 +2,7 @@
 id: "pst_01kn8jw0dsenf98vaj5fcypg02"
 title: "The Five-Minute Reset Is Still the Best Habit I Have"
 date: "2026-01-12T19:00:00.000Z"
-updated: "2026-04-03T02:31:02.000Z"
+updated: "2026-09-21T04:31:36.000Z"
 slug: "the-five-minute-reset-is-still-the-best-habit-i-have"
 type: "post"
 format: "note"
@@ -21,6 +21,7 @@ collections:
     position: 1
     pinned_at: null
 language: "en"
+translation_group: "tgr_01m313qnsve4e8cmpdkqqzw18j"
 ---
 
 When the apartment starts feeling loud, I set a five-minute timer and do the same small loop:

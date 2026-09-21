@@ -4,7 +4,7 @@ slug: "useful-links"
 type: "collection"
 summary_text: "Articles, tools, recipes, and pages I want to find again."
 sort_order: "newest"
-entry_count: 9
+entry_count: 11
 outputs:
   - "html"
   - "rss"
