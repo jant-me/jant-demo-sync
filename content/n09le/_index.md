@@ -1,7 +1,7 @@
 ---
 id: "pst_01m313qab0e4e8cme8fq7281df"
-date: "2025-08-15T07:20:00.000Z"
-updated: "2026-09-21T04:31:25.000Z"
+date: "2025-08-28T07:20:00.000Z"
+updated: "2026-09-21T05:42:57.000Z"
 slug: "n09le"
 type: "post"
 format: "quote"

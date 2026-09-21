@@ -1,7 +1,7 @@
 ---
 id: "pst_01m313qb63e4e8cmetm7g1bsrr"
-date: "2025-08-24T03:05:00.000Z"
-updated: "2026-09-21T04:31:25.000Z"
+date: "2025-09-10T03:05:00.000Z"
+updated: "2026-09-21T05:42:56.000Z"
 slug: "2u5e5"
 type: "post"
 format: "note"

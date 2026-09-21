@@ -1,8 +1,8 @@
 ---
 id: "pst_01m313qc9pe4e8cmfcwzpmw1n8"
 title: "通往幸福之路"
-date: "2025-09-01T06:40:00.000Z"
-updated: "2026-09-21T04:31:27.000Z"
+date: "2025-10-05T06:40:00.000Z"
+updated: "2026-09-21T05:42:55.000Z"
 slug: "tong-wang-xing-fu-zhi-lu"
 type: "post"
 format: "link"
@@ -14,7 +14,7 @@ link_url: "http://hintjens.com/blog:99"
 featured_at: "2026-09-21T04:31:27.000Z"
 featured_post_ids:
   - "pst_01m313qc9pe4e8cmfcwzpmw1n8"
-featured_sort_at: "2025-09-01T06:40:00.000Z"
+featured_sort_at: "2025-10-05T06:40:00.000Z"
 collections:
   - slug: "useful-links"
     title: "Useful Links"

@@ -1,7 +1,7 @@
 ---
 id: "pst_01m313qd63e4e8cmfrestyc6qf"
-date: "2025-09-09T12:15:00.000Z"
-updated: "2026-09-21T05:02:27.000Z"
+date: "2025-10-18T12:15:00.000Z"
+updated: "2026-09-21T05:42:54.000Z"
 slug: "5kayp"
 type: "post"
 format: "note"
