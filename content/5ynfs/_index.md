@@ -4,6 +4,8 @@ date: "2025-09-22T13:40:00.000Z"
 updated: "2026-09-21T05:42:35.000Z"
 slug: "5ynfs"
 type: "post"
+aliases:
+  - "/hu597/"
 format: "quote"
 status: "published"
 visibility: "public"
@@ -20,6 +22,7 @@ collections:
     collected_at: "2026-09-21T05:42:35.000Z"
     position: 0
     pinned_at: null
+last_activity_at: "2025-09-23T14:05:00.000Z"
 language: "zh-Hans"
 ---
 

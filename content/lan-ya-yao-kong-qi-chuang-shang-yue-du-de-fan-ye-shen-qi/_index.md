@@ -1,8 +1,8 @@
 ---
 id: "pst_01m316dp1ffantekztzs32t6y0"
 title: "蓝牙遥控器：床上阅读的翻页神器"
-date: "2026-03-07T13:20:00.000Z"
-updated: "2026-09-21T05:18:35.000Z"
+date: "2026-03-04T13:20:00.000Z"
+updated: "2026-09-21T05:42:39.000Z"
 slug: "lan-ya-yao-kong-qi-chuang-shang-yue-du-de-fan-ye-shen-qi"
 type: "post"
 format: "link"
