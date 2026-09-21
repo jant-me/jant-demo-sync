@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-09-21T05:18:38.000Z"
+generated_at = "2026-09-21T05:26:47.000Z"
 site_name = "Jant"
 site_description = ""
 site_language = "en"
@@ -62,7 +62,7 @@ sequence = "00"
 slug = "city-walks"
 title = "City Walks"
 description_html = "<p>Routes, corners, and small things I notice outside.</p>"
-entry_count = 9
+entry_count = 8
 recent_activity_label = "Mar 9"
 recent_activity_iso = "2026-03-09T18:05:00.000Z"
 
@@ -112,6 +112,6 @@ sequence = "05"
 slug = "weekend-notes"
 title = "Weekend Notes"
 description_html = "<p>Small updates from slow Saturdays and Sundays.</p>"
-entry_count = 22
+entry_count = 21
 recent_activity_label = "Mar 9"
 recent_activity_iso = "2026-03-09T18:05:00.000Z"
