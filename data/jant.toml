@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-09-21T05:02:29.000Z"
+generated_at = "2026-09-21T05:02:35.000Z"
 site_name = "Jant"
 site_description = ""
 site_language = "en"
@@ -82,7 +82,7 @@ sequence = "02"
 slug = "reading-notes"
 title = "Reading Notes"
 description_html = "<p>Lines worth keeping and thoughts after a chapter ends.</p>"
-entry_count = 14
+entry_count = 15
 recent_activity_label = "Feb 8"
 recent_activity_iso = "2026-02-08T03:25:00.000Z"
 
@@ -92,7 +92,7 @@ sequence = "03"
 slug = "tiny-projects"
 title = "Tiny Projects"
 description_html = "<p>Repairs, setup tweaks, and half-day improvements around the apartment.</p>"
-entry_count = 9
+entry_count = 10
 recent_activity_label = "Mar 1"
 recent_activity_iso = "2026-03-01T10:45:00.000Z"
 
@@ -102,7 +102,7 @@ sequence = "04"
 slug = "useful-links"
 title = "Useful Links"
 description_html = "<p>Articles, tools, recipes, and pages I want to find again.</p>"
-entry_count = 12
+entry_count = 13
 recent_activity_label = "Mar 5"
 recent_activity_iso = "2026-03-05T09:10:00.000Z"
 

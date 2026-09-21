@@ -2,7 +2,7 @@
 id: "pst_01m313qfjwe4e8cmh9stpwee1b"
 title: "CleanShot：Mac 上的截图、OCR、录屏工具"
 date: "2025-10-08T05:10:00.000Z"
-updated: "2026-09-21T04:31:30.000Z"
+updated: "2026-09-21T05:02:29.000Z"
 slug: "cleanshotmac-shang-de-jie-tu-ocr-lu-ping-gong-ju"
 type: "post"
 format: "link"
@@ -22,6 +22,7 @@ collections:
     position: 1
     pinned_at: null
 language: "zh-Hans"
+translation_group: "tgr_01m315g7kyf23t9d05z5ewt3qp"
 ---
 
 用了很久的一个截图 App，它的很多交互都特别符合我的使用习惯。但首次使用需要做一些设置：比如我的习惯是截完图之后自动保存到 Downloads 文件夹，同时复制到剪贴板；然后我还希望它悬浮在左下角几秒钟——如果我需要继续高亮或者标注，我会自己点这个小窗口，不需要的话它就自行消失。
